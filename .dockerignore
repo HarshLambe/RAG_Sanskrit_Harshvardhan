@@ -1,0 +1,7 @@
+chroma_db/
+.env
+.agent/
+__pycache__/
+*.pyc
+.git/
+report/

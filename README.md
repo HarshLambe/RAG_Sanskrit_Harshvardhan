@@ -6,7 +6,6 @@ This project is an end-to-end Retrieval-Augmented Generation (RAG) system for Sa
 - `/code/`: Contains the implementation scripts (`rag_pipeline.py`, `app.py`).
 - `/data/`: Contains the sample Sanskrit document corpus (`Rag-docs.txt`).
 - `/report/`: Contains the generated PDF report detailing architecture and performance.
-- `chroma_db/`: Local Chroma Vector Store database (Generated after first run).
 
 ## Features
 - **100% Offline & Local**: The system requires no API keys and makes no external API calls after the initial model download.
